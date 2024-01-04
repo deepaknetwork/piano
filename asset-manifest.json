@@ -7,7 +7,7 @@
     "main.f608f11b.js.map": "/piano//static/js/main.f608f11b.js.map"
   },
   "entrypoints": [
-    "static/css/main.132f9597.css",
-    "static/js/main.f608f11b.js"
+    "/piano/static/css/main.132f9597.css",
+    "/piano/static/js/main.f608f11b.js"
   ]
 }
